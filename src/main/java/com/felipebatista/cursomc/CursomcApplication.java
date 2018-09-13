@@ -47,6 +47,7 @@ public class CursomcApplication implements CommandLineRunner{
 		produtoRepo.saveAll(Arrays.asList(p1,p2,p3));
 		
 		
+		
 	}
 	
 }
